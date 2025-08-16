@@ -4,7 +4,7 @@ from random import randint
 farben = ["indigo","black","blue","red","yellow","green","brown","pink","purple","orange","gray"]
 makeTurtle()
 hideTurtle()
-repeat 3000:
+repeat 30004:
     setPenColor(getRandomX11Color())
     setRandomPos(800, 600)
-    dot(20)
+    dot(26)

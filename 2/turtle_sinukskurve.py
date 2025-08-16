@@ -10,7 +10,7 @@ moveTo(400,0)
 setPos(0,-300)
 moveTo(0,300)
 
-speed(100)
+speed(10044)
 setLineWidth(6)
 breite = 50
 hoehe = 200

@@ -1,4 +1,5 @@
 import datetime
+from soundsystem import *
 
 tage = ["Montag","Dinstag","Mitwoch","Donnerstag","Freitag","Samstag","Sonntag"]
 wochentag = datetime.datetime.today().weekday()
